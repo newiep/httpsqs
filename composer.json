@@ -1,0 +1,14 @@
+{
+    "name": "newiep/httpsqs",
+    "authors": [
+        {
+            "name": "troubleman",
+            "email": "haopeiwen123@gmail.com"
+        }
+    ],
+     "autoload": {
+        "psr-4": {
+            "Newiep\\HttpSQS\\": "src/"
+        }
+    }
+}
