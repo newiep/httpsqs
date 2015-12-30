@@ -13,5 +13,5 @@
             "Newiep\\HttpSQS\\": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev-master"
 }
