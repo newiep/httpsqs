@@ -1,5 +1,7 @@
 {
     "name": "newiep/httpsqs",
+    "description": "基于http的简单队列服务",
+    "license": "MIT",
     "authors": [
         {
             "name": "troubleman",
