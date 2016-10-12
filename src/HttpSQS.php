@@ -283,7 +283,7 @@ class HttpSQS
         $body = substr($rawHeaders, $headerSize);
 
         $result = array(
-            'pos' => $headers['Pos'],
+            'pos' => isset($headers['Pos'])?$headers['Pos']:0,
             'data'=> $body
         );
         return $result;
